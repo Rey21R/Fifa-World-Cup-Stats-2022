@@ -1,13 +1,2 @@
-# Create main folders
-mkdir data notebooks src assets docs
 
-# Subfolders inside "data"
-mkdir -p data/raw
-mkdir -p data/processed
-
-# Subfolders inside "assets"
-mkdir -p assets/screenshots
-
-# Create essential files
-touch .gitignore LICENSE README.md
 
